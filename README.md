@@ -1,19 +1,26 @@
-# Project-SpotifySync-ETL-pipeline-Data-Engineering
-End-to-end data pipeline using Airflow for automated workflow scheduling, optimizing Spotify's API data for Global Top 50 playlist loading into PostgreSQL
+# SpotifySync ETL Pipeline - Data Engineering Project
 
-In this project, I developed an ETL (Extract-Transform-Load) pipeline for Spotify API - Get Global Top 50 playlist  https://developer.spotify.com/documentation/web-api/reference/get-playlist, utilizing Python, Airflow, Docker, and Tableau for comprehensive data management and visualization. With Python, I extracted, transformed, and validated data from Spotify's API, ensuring accuracy and consistency.
-To streamline the process, I orchestrated an end-to-end data pipeline using Airflow, seamlessly automating workflow scheduling and optimizing data loading into PostgreSQL. Leveraging Docker, I have containerized the entire pipeline. To enhance data insights, I harnessed Tableau's powerful visualization capabilities, providing intuitive representations of the processed data.
+Welcome to the SpotifySync ETL Pipeline project! This end-to-end data pipeline is designed for automated workflow scheduling, optimizing Spotify's API data for the Global Top 50 playlist and loading it into PostgreSQL. 
 
-Highlighted Technologies:
+![Screenshot](portfolio1_2.png)
 
-Python: Employed for data extraction, transformation, and validation.
+## Project Overview
+In this project, I utilized Python, Airflow, Docker, and Tableau to create a robust ETL (Extract-Transform-Load) pipeline. Using the [Spotify API](https://developer.spotify.com/documentation/web-api/reference/get-playlist), Python extracted, transformed, and validated data, ensuring accuracy and consistency.
 
-Airflow: Orchestrated the automated end-to-end data pipeline.
+## Technologies at Play
+- **Python:** Employed for data extraction, transformation, and validation.
+- **Airflow:** Orchestrated the automated end-to-end data pipeline.
+- **Docker Desktop:** Containerized the pipeline for consistent deployment.
+- **PostgreSQL:** Optimized data loading and storage.
+- **Tableau:** Utilized for creating impactful data visualizations.
 
-Docker Desktop: Containerized the pipeline for consistent deployment.
+## Project Highlights
+To streamline the process, I orchestrated an end-to-end data pipeline using Airflow, automating workflow scheduling and optimizing data loading into PostgreSQL. Leveraging Docker, the entire pipeline is containerized. To enhance data insights, I harnessed Tableau's powerful visualization capabilities, providing intuitive representations of the processed data.
 
-PostgreSQL: Optimized data loading and storage.
+## Project Differentiation
+Building upon the foundations laid by [sidharth1805], my project takes a unique approach by incorporating a different API dataset. Leveraging the capabilities of Tableau, I've ventured into data analysis and visualization to uncover meaningful insights.
 
-Tableau: Utilized for creating impactful data visualizations.
+## Explore the Repository
+Feel free to explore the repository to learn more! Here's a sneak peek of what you'll find:
 
-Building upon the foundations laid by (sidharth1805), my project takes a unique approach by incorporating a different API dataset. Leveraging the capabilities of Tableau, I've ventured into data analysis and visualization to uncover meaningful insights. Explore the repository to learn more!
+
