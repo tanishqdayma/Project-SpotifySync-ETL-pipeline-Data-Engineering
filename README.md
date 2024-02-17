@@ -2,7 +2,7 @@
 
 Welcome to the SpotifySync ETL Pipeline project! This end-to-end data pipeline is designed for automated workflow scheduling, optimizing Spotify's API data for the Global Top 50 playlist and loading it into PostgreSQL. 
 
-![Screenshot](portfolio1_2.png)
+![Screenshot](Portfolio1_2.png)
 
 ## Project Overview
 In this project, I utilized Python, Airflow, Docker, and Tableau to create a robust ETL (Extract-Transform-Load) pipeline. Using the [Spotify API](https://developer.spotify.com/documentation/web-api/reference/get-playlist), Python extracted, transformed, and validated data, ensuring accuracy and consistency.
